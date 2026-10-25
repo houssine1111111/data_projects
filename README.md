@@ -3,19 +3,19 @@
 
 This repository contains five practical Data Science, Data Engineering, and Artificial Intelligence projects designed to solve real-world business problems.
 
-The goal is to develop industry-relevant technical skills, build production-oriented applications, and demonstrate the ability to turn raw data into actionable insights.
+The goal is to develop industry-relevant technical skills, build practical applications, and demonstrate the ability to turn raw data into actionable insights.
 
 🎯 Project Objectives
 Develop strong Python and SQL skills.
 Perform data cleaning, exploratory data analysis, and visualization.
 Build and evaluate machine learning models.
 Develop AI-powered applications using Large Language Models (LLMs).
-Design automated data pipelines and analytical workflows.
+Design automated data pipelines.
 Deploy interactive applications and document projects professionally.
-📊 *Project 1*: E-commerce Sales Intelligence Dashboard
+📊 Project 1: E-commerce Sales Intelligence Dashboard
 Business Problem
 
-Businesses need to understand their sales performance, profitability, and customer behavior to make better decisions.
+Businesses need to understand sales performance, profitability, and customer behavior to make better decisions.
 
 Objectives
 Analyze sales, revenue, and profit trends.
@@ -40,16 +40,16 @@ Cleaned dataset.
 SQL queries and Python notebooks.
 Interactive Power BI dashboard.
 Business insights report.
-🤖 *Project 2*: Customer Churn Prediction
+🤖 Project 2: Customer Churn Prediction
 Business Problem
 
-Subscription-based businesses lose revenue when customers cancel their subscriptions. Predicting churn can help companies identify at-risk customers and improve retention.
+Subscription-based businesses lose revenue when customers cancel their subscriptions. Predicting churn helps companies identify at-risk customers and improve retention.
 
 Objectives
 Analyze customer behavior and churn patterns.
 Identify factors associated with customer cancellations.
 Train machine learning models to predict churn.
-Estimate the potential impact of customer retention strategies.
+Estimate the potential impact of retention strategies.
 Technologies
 Python
 Pandas
@@ -68,11 +68,11 @@ Expected Deliverables
 Trained machine learning model.
 Model evaluation report.
 Customer churn risk dashboard.
-Recommendations for customer retention.
-🧠 *Project 3*: AI Research Assistant Using RAG
+Customer retention recommendations.
+🧠 Project 3: AI Research Assistant Using RAG
 Business Problem
 
-Employees and researchers often spend significant time searching through lengthy documents to find relevant information.
+Employees and researchers spend significant time searching through lengthy documents to find relevant information.
 
 Objectives
 Build an AI assistant that answers questions about uploaded documents.
@@ -92,14 +92,14 @@ Text chunking and embedding generation.
 Semantic document search.
 Retrieval-Augmented Generation (RAG).
 Answers with source citations.
-Handling of questions that cannot be answered from the available documents.
+Handling questions that cannot be answered from available documents.
 Evaluation of retrieval quality and answer faithfulness.
 Expected Deliverables
 Working document question-answering application.
 Document retrieval pipeline.
 Evaluation dataset and test results.
-Documentation describing the architecture and limitations.
-⚙️ *Project 4*: End-to-End Data Engineering Pipeline
+Architecture documentation and limitations.
+⚙️ Project 4: End-to-End Data Engineering Pipeline
 Business Problem
 
 Organizations need reliable, automated systems to collect, transform, validate, and store data for reporting and analytics.
@@ -130,7 +130,7 @@ Data warehouse and analytical models.
 Automated tests and validation reports.
 Pipeline architecture diagram.
 Documentation and setup instructions.
-📈 *Project 5*: Demand Forecasting and Inventory Optimization
+📈 Project 5: Demand Forecasting and Inventory Optimization
 Business Problem
 
 Retail businesses lose money because of overstocking, stockouts, and inaccurate demand forecasts.
@@ -173,7 +173,7 @@ Explainable AI	SHAP
 Generative AI	LLMs, embeddings, RAG
 Data Engineering	ETL/ELT, dbt, Airflow
 Deployment	Streamlit, FastAPI, Docker
-Professional Practices	Git, testing, documentation, evaluation
+Professional Practices	Git, testing, documentation
 📁 Suggested Repository Structure
 text
 data-ai-portfolio/
@@ -230,17 +230,17 @@ Publish project demos and screenshots.
 
 Each project will be evaluated using appropriate technical and business metrics.
 
-Data analysis: Data quality, accuracy of calculations, and usefulness of insights.
-Machine learning: Precision, recall, F1-score, ROC-AUC, and appropriate baseline comparisons.
-RAG applications: Retrieval quality, answer relevance, source correctness, and faithfulness.
-Data engineering: Pipeline reliability, data validation, reproducibility, and failure handling.
-Forecasting: MAE, RMSE, time-based backtesting, and inventory-related outcomes.
+Data Analysis: Data quality, calculation accuracy, and usefulness of insights.
+Machine Learning: Precision, recall, F1-score, ROC-AUC, and baseline comparisons.
+RAG Applications: Retrieval quality, answer relevance, source correctness, and faithfulness.
+Data Engineering: Pipeline reliability, data validation, reproducibility, and failure handling.
+Forecasting: MAE, RMSE, time-based backtesting, and inventory outcomes.
 
 Actual results will be documented after implementation and evaluation.
 
 💼 Career Goals
 
-These projects are intended to demonstrate practical skills relevant to roles such as:
+These projects are designed to develop skills relevant to the following roles:
 
 Data Analyst
 Business Intelligence Analyst
