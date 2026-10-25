@@ -12,6 +12,10 @@ Build and evaluate machine learning models.
 Develop AI-powered applications using Large Language Models (LLMs).
 Design automated data pipelines.
 Deploy interactive applications and document projects professionally.
+
+
+
+
 📊 Project 1: E-commerce Sales Intelligence Dashboard
 Business Problem
 
@@ -40,6 +44,12 @@ Cleaned dataset.
 SQL queries and Python notebooks.
 Interactive Power BI dashboard.
 Business insights report.
+
+
+
+
+
+
 🤖 Project 2: Customer Churn Prediction
 Business Problem
 
@@ -69,6 +79,9 @@ Trained machine learning model.
 Model evaluation report.
 Customer churn risk dashboard.
 Customer retention recommendations.
+
+
+
 🧠 Project 3: AI Research Assistant Using RAG
 Business Problem
 
@@ -99,6 +112,10 @@ Working document question-answering application.
 Document retrieval pipeline.
 Evaluation dataset and test results.
 Architecture documentation and limitations.
+
+
+
+
 ⚙️ Project 4: End-to-End Data Engineering Pipeline
 Business Problem
 
@@ -130,6 +147,10 @@ Data warehouse and analytical models.
 Automated tests and validation reports.
 Pipeline architecture diagram.
 Documentation and setup instructions.
+
+
+
+
 📈 Project 5: Demand Forecasting and Inventory Optimization
 Business Problem
 
@@ -148,6 +169,9 @@ Statsmodels
 SQL
 Plotly
 Streamlit
+
+
+
 Key Features
 Time-series exploratory data analysis.
 Seasonality and trend analysis.
@@ -162,6 +186,11 @@ Forecasting model.
 Model comparison report.
 Interactive demand forecasting application.
 Inventory optimization recommendations.
+
+
+
+
+
 🛠️ Skills Demonstrated
 Skill Category	Technologies and Concepts
 Programming	Python
@@ -174,47 +203,13 @@ Generative AI	LLMs, embeddings, RAG
 Data Engineering	ETL/ELT, dbt, Airflow
 Deployment	Streamlit, FastAPI, Docker
 Professional Practices	Git, testing, documentation
-📁 Suggested Repository Structure
-text
-data-ai-portfolio/
-│
-├── project-1-sales-dashboard/
-│   ├── data/
-│   ├── notebooks/
-│   ├── sql/
-│   ├── dashboard/
-│   └── README.md
-│
-├── project-2-churn-prediction/
-│   ├── data/
-│   ├── notebooks/
-│   ├── src/
-│   ├── models/
-│   ├── app.py
-│   └── README.md
-│
-├── project-3-rag-assistant/
-│   ├── data/
-│   ├── src/
-│   ├── tests/
-│   ├── app.py
-│   └── README.md
-│
-├── project-4-data-pipeline/
-│   ├── dags/
-│   ├── ingestion/
-│   ├── transformations/
-│   ├── tests/
-│   └── README.md
-│
-├── project-5-demand-forecasting/
-│   ├── data/
-│   ├── notebooks/
-│   ├── src/
-│   ├── app.py
-│   └── README.md
-│
-└── README.md
+
+
+
+
+
+
+
 
 📅 Development Roadmap
 Project 1: E-commerce Sales Intelligence Dashboard
@@ -226,6 +221,10 @@ Add unit tests and data quality checks.
 Deploy applications where appropriate.
 Document results, limitations, and lessons learned.
 Publish project demos and screenshots.
+
+
+
+
 📊 Evaluation Principles
 
 Each project will be evaluated using appropriate technical and business metrics.
